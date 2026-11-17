@@ -1,0 +1,12 @@
+{
+  "name": "grease-index-server",
+  "version": "1.0.0",
+  "description": "Car service prices backend",
+  "license": "ISC",
+  "author": "Meghan OConnell",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
